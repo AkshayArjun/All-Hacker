@@ -8,5 +8,6 @@ The main file is Gods Hacking Device.py
 
 
 Usage : 
-python3 GODS HACKING DEVICE.py
+cd All-Hacker
+python3 'GODS HACKING DEVICE.py'
 Simple User Interface!
